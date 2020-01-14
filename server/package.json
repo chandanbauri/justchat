@@ -1,0 +1,15 @@
+{
+  "name": "justchat",
+  "version": "1.0.0",
+  "description": "a chat app using socket.io express and node react",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "chandan",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "socket.io": "^2.3.0"
+  }
+}
